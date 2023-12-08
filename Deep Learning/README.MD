@@ -10,6 +10,7 @@
 
 1. Segmentation (CelebAMask-HQ dataset - Semantic Segmentation) with testing on your own photos.
 2. Deep image prior (deleting noise with neural network smart approach).
+3. Natural language generation.
 
 ## HW3
 
