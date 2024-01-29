@@ -21,7 +21,7 @@ My own HW materials
 ## Digital Petroleum courses
 | Course Name| ID | Grade | Link to materials |
 | :----------- | :-----------: | -----------: | :-----------: |
-| Digital Core Processing |  |[MA030563](https://files.skoltech.ru/data/edu/syllabuses/2023/MA030563.pdf?v=t4vp6e)	| A | [\*click\*](Digital%20Core%20Processing/)|
+| Digital Core Processing |  [MA030563](https://files.skoltech.ru/data/edu/syllabuses/2023/MA030563.pdf?v=t4vp6e)	| A | [\*click\*](Digital%20Core%20Processing/)|
 | Geostatistics and Reservoir Simulation |[MA060085](http://files.skoltech.ru/data/edu/syllabuses/2022/MA060085.pdf?v=1hoqpj)	| A | [\*click\*](Geostatistics%20and%20Reservoir%20Simulation/)|
 
 
