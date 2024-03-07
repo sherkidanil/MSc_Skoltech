@@ -16,4 +16,4 @@
 
 1. Making GANs Great Again (with I-SUR function).
 2. Signal Processing (working with EEG).
-* Transformer approach.
+* Vision Transformer approach.
